@@ -4,7 +4,11 @@
 
 # 연락처 : 010-9270-6579
 
-### Hi there 👋
+### 유니티 텀프로젝트 주제 디펜스
+### 유니티 7시반 월 시험
+### 궁질수 3시 화
+### 파이썬 11시 수
+### 오픈소스 13시 금
 
 <!--
 **kimchanghyun325/kimchanghyun325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
