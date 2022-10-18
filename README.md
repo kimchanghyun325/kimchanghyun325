@@ -1,25 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=blue&height=300&section=header&text=Chang's git%20render&fontSize=90)
+
 # 이름 : 김창현
+
+# 나이 : 23
 
 # 학과 : 빅데이터학과
 
-# 연락처 : 010-9270-6579
+## 연락처 : 010-9270-6579
+## E-mail : kch633@naver.com
+## instagram : changg0322
 
-### 유니티 텀프로젝트 주제 디펜스
+<img src="https://img.shields.io/badge/-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-### 파이썬 11시 수
-### 오픈소스 13시 금
-
-<!--
-**kimchanghyun325/kimchanghyun325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
