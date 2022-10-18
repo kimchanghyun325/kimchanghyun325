@@ -2,10 +2,6 @@
 <div align=center>
 
   My Profile   
-  
-  <img class="fit-picture"   
-     src="C:\Users\kch63\Desktop\changhyun.jpg"
-     alt="김창현 사진입니다.">
   ### 이름 : 김창현
 
   ### 나이 : 23
@@ -14,6 +10,7 @@
   
   ### 학과 : 빅데이터학과
 
+  # 군대 : 28사단 포병연대 병장 만기전역
   # 연락처 : 010-9270-6579
   # E-mail : kch633@naver.com
   # instagram : changg0322
@@ -30,6 +27,6 @@
   <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/kimchanghyun/github-readme-stats)
   
 </div>
