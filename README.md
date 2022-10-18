@@ -1,4 +1,4 @@
-![header](/api?type=shark&color=blue&height=300&section=header&text=Chang's git%20render&fontSize=90)
+![header](api?type=shark&color=blue&height=300&section=header&text=Chang's git%20render&fontSize=90)
 
 # 이름 : 김창현
 
