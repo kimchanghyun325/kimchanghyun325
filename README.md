@@ -27,5 +27,5 @@
   <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/kimchanghyun325/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
