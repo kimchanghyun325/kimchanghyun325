@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chang's%20git&fontSize=90" />
 <div align=center>
 
-  My Profile
-
+  My Profile   
+  
+  <img class="fit-picture"   
+     src="C:\Users\kch63\Desktop\changhyun.jpg"
+     alt="김창현 사진입니다.">
   ### 이름 : 김창현
 
   ### 나이 : 23
@@ -27,5 +30,6 @@
   <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
