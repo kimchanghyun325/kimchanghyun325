@@ -2,18 +2,18 @@
 <div align=center>
 
   My Profile   
-  ### 이름 : 김창현
+  # 이름 : 김창현
 
-  ### 나이 : 23
+  # 나이 : 23
 
-  ### 학교 : 한림대학교
+  # 학교 : 한림대학교
   
-  ### 학과 : 빅데이터학과
+  # 학과 : 빅데이터학과   
 
-  # 군대 : 28사단 포병연대 병장 만기전역
-  # 연락처 : 010-9270-6579
-  # E-mail : kch633@naver.com
-  # instagram : changg0322
+  ### 군대 : 28사단 포병연대 병장 만기전역
+  ### 연락처 : 010-9270-6579
+  ### E-mail : kch633@naver.com
+  ### instagram : changg0322
 
     
   :thumbsup:
