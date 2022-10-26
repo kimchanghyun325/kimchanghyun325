@@ -85,10 +85,11 @@
   # :pencil2: 활동(미래,과거)
   ### 학술동아리 멀티플렉스 활동
   ### 게임개발자에게 요구되는 역량이란? 특강 수료 예정
-  ### github 이력서 해커톤 참가 예정
+  ### github 이력서 해커톤 참가
   ### 미래기술 특허 아이디어 경진대회 참가
   ### Learning Portfolio 공모전 참가 예정
   ### 유니티 텀프로젝트 진행
+  ### 2022 SW Coading festival 참가
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
