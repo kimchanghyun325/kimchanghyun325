@@ -29,8 +29,56 @@
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanghyun325)](https://github.com/kimchanghyun325/github-readme-stats)  
   <img src="http://mazandi.herokuapp.com/api?handle={kimchanghyun325}&theme=warm"/>
+
+  :mortar_board:Studying subject  
+  :office: VR/AR/게임제작기초 = Unity / 이정 교수님  
+  :stars: 파이썬 과학프로그래밍 = Python / 김종대 교수님  
+  :globe_with_meridians: 오픈소스sw개발도구활용 = linux / 고영웅 교수님   
+    
+  # MY Time Table  
+  <table border="1"
+         bordercolor="yellow">
+    <tr>
+	    <td>월</td>
+	    <td>화</td>
+      <td>수</td>
+      <td>목</td>
+      <td>금</td>
+	</tr>
+	<tr>
+	    <td>공강</td>
+	    <td>VR/AR/게임제작기초</td>
+      <td>공강</td>
+      <td>VR/AR/게임제작기초</td>
+      <td>공강</td>
+	</tr>
+	<tr>
+	    <td>공강</td>
+	    <td>공강</td>
+      <td>파이썬과학프로그래밍</td>
+      <td>공강</td>
+      <td>파이썬과학프로그래밍</td>
+	</tr>
+  <tr>
+	    <td>공강</td>
+	    <td>SW창업전략과펀딩</td>
+      <td>공강</td>
+      <td>SW창업전략과펀딩</td>
+      <td>오픈소스SW개발도구활용</td>
+	</tr>
+  <tr>
+	    <td>공강</td>
+	    <td>궁금하지만 질문 못한 수학의 원리</td>
+      <td>공강</td>
+      <td>궁금하지만 질문 못한 수학의 원리</td>
+      <td>오픈소스SW개발도구활용</td>
+	</tr></table>
   
   
-  
+  :pencil2:   :pencil2:  :pencil2:  :pencil2: 
+  ## project in progress  
+  ### project : game develop project  
+  ### language : on unity  
+  ### topic : Deffence
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
