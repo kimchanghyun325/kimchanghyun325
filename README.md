@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325&langs_count=8)](https://github.com/kimchanghyun325/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanghyun325)](https://github.com/kimchanghyun325/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/kimchanghyun325/github-readme-stats)  
+  <img src="http://mazandi.herokuapp.com/api?handle={kimchanghyun325}&theme=warm"/>
   
+  
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
