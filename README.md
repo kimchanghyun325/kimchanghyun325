@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
   
-  # GitHub states  
+  # :muscle: GitHub states  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanghyun325)](https://github.com/kimchanghyun325/github-readme-stats)  
   
