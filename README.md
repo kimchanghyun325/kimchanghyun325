@@ -2,7 +2,7 @@
 <div align=center>
  <img src=https://scontent.ficn3-3.fna.fbcdn.net/v/t39.30808-6/243182300_2630624280578774_3312350706822483372_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fB1BQK_U4OcAX_O5j5l&_nc_ht=scontent.ficn3-3.fna&oh=00_AT-vvHjujf29Mi274FB0AV93w4FRtb-jd-NMn7KHf7WjWQ&oe=635EE21D alt="My Image">  
    
-  # MY PROFILE   
+  # :mortar_board: MY PROFILE   
     
   ### 이름 : 김창현  
   ### 나이 : 23  
