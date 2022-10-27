@@ -21,7 +21,7 @@
   ### 현재 한림대학교에서 컴퓨터를 공부하고 있으며   
   ### 여러 프로젝트 계획중에 있고 현재는 유니티 프로젝트를 구상중입니다.   
   ### 또한 정주영회장의 말인 "시련은 있어도 실패는 없는거야" 라는 말을 항상 기억하며 살려고 노력하고
-  ### 배운 것을 아는 것보다 활용하는 것에 더 가치를 두고 활용해보려고 노력합니다.
+  ### 배운 것을 아는 데서 멈추기보다 활용하는 것에 더 가치를 두고 활용해보려고 노력합니다.
   ### 그리고 종종 무엇을 하면 큰 돈을 벌 수 있는가에 대한 아이디어 관련 생각을 많이 합니다. 
   ### 창업에 흥미가 있고 개발만 하기보다는 회사에서의 결정에 기여하기를 원합니다.  
 	
@@ -38,8 +38,9 @@
   # :muscle:스택   
   <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-D4911E?style=flat&logo=RobotFramework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=tC&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-CC0000?style=flat&logo=tJavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   
   # :muscle: GitHub states  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanghyun325)](https://github.com/kimchanghyun325/github-readme-stats)  
@@ -100,15 +101,15 @@
   
   ### 유니티 게임 개발 프로젝트  
   ### 주제 : 디펜스 게임  
-  ### 설명 : 유니티를 이용한 간단한 몬스터를 막는 디펜스 게임을 만들어볼 예정이다.  
+  ### 설명 : 유니티를 이용한 몰려오는 몬스터를 막는 디펜스 게임.  
   
   # :pencil2: 활동(미래,과거)
   ### 학술동아리 멀티플렉스 활동
-  ### 게임개발자에게 요구되는 역량이란? 특강 수료 예정
+  ### 게임개발자에게 요구되는 역량이란? 특강 수료
   ### github 이력서 해커톤 참가
   ### 미래기술 특허 아이디어 경진대회 참가
   ### 유니티 텀프로젝트 진행
-  ### 2022 SW Coading festival 참가
+  ### 2022 SW Coading Festival 참가
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
