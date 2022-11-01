@@ -110,6 +110,6 @@
   ### 미래기술 특허 아이디어 경진대회 참가
   ### 유니티 텀프로젝트 진행
   ### 2022 SW Coading Festival 참가
-  
+  ### Learning Portfolio 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
