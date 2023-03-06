@@ -53,9 +53,10 @@
   ### 전공에 비해서 교양이 점수가 낮아 학점이 낮아지는 경우가 빈번하다. 그러므로 전공이 아니더라도 공부를 조금 더 주의있게 할 것.  
 	
   # :mortar_board:Studying major subject   
-  ### :office: VR/AR/게임제작기초 = Unity / 이정 교수님  
-  ### :office: 파이썬 과학프로그래밍 = Python / 김종대 교수님  
-  ### :office: 오픈소스sw개발도구활용 = linux / 고영웅 교수님   
+  ### :office: 인공지능 / 김유섭 교수님  
+  ### :office: 컴퓨터 그래픽스 / 김선정 교수님  
+  ### :office: 가상현실 기초및실습 / 김선정 교수님
+  ### :office: c++ 프로그래밍 /샘양은샘 교수님   
     
   # MY Time Table  
   <table border="1"
