@@ -97,7 +97,7 @@
 	</tr></table>
   
   
-  # :pencil2: 진행중 프로젝트
+  # :pencil2: 완료한 프로젝트
   
   ### 유니티 게임 개발 프로젝트  
   ### 주제 : 디펜스 게임  
@@ -111,6 +111,7 @@
   ### 유니티 텀프로젝트 진행
   ### 2022 SW Coading Festival 참가
   ### Learning Portfolio 
+  ### LG Aimers 수료
 	
   # :mortar_board: 수상
   ### 미래기술 특허 아이디어 경진대회 동상 
