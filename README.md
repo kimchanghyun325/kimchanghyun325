@@ -113,7 +113,8 @@
   ### 2022 SW Coading Festival 참가
   ### Learning Portfolio 
   ### LG Aimers 수료
-	
+  ### LG Aimers 오프라인 해커톤 진출
+
   # :mortar_board: 수상
   ### 미래기술 특허 아이디어 경진대회 동상 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
