@@ -38,60 +38,7 @@
   ### 학습 환경 : 집과 도서관에서 주로 공부
   
   # :muscle:스택   
-  <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-D4911E?style=flat&logo=RobotFramework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00CCBB?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  
-  # :muscle: GitHub states  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanghyun325)](https://github.com/kimchanghyun325/github-readme-stats)  
-  
-  # :pencil2: 학점  
-  ### 2학년 2학기 : 3.9  
-  ### 교양제외 4.25  
-  ## 목표  
-  ### 교양 포함 4.3
-  ### 전공에 비해서 교양이 점수가 낮아 학점이 낮아지는 경우가 빈번하다. 그러므로 전공이 아니더라도 공부를 조금 더 주의있게 할 것.  
-
-  # :pencil2: 학점  
-  ### 3학년 1학기 : 4.25  
-  
-  ### 3학년 1학기에 목표 달성. 다음 목표는 이 학점을 유지할 것.
-	
-  # :mortar_board:Studying major subject   
-  ### :office: 모바일 프로그래밍 / 김효승 교수님
-  ### :office: 게임 프로그래밍 / 김선정 교수님  
-  ### :office: 알고리즘 / 송창근 교수님
-  ### :office: 머신러닝 /노원종 교수님   
-
-  
-  # :pencil2: 완료한 프로젝트
-  
-  ### 유니티 게임 개발 프로젝트  
-  ### 주제 : 디펜스 게임  
-  ### 설명 : 유니티를 이용한 몰려오는 몬스터를 막는 디펜스 게임.  
-  
-  ### 유니티 vr 게임
-  ### 주제 : 방탈출 게임  
-  ### 설명 : 구글 카드보드를 이용한 방탈출 퍼즐게임.   
-  
-  # :pencil2: 활동(미래,과거)
-  ### 학술동아리 멀티플렉스 활동
-  ### 게임개발자에게 요구되는 역량이란? 특강 수료
-  ### github 이력서 해커톤 참가
-  ### 미래기술 특허 아이디어 경진대회 참가
-  ### 유니티 텀프로젝트 진행
-  ### 2022 SW Coading Festival 참가
-  ### Learning Portfolio 
-  ### LG Aimers 수료
-  ### 23 github이력서 해커톤 참가
-  ### vr 텀프로젝트 진행
-
-  # :mortar_board: 수상
-  ### LG AIMERS 오프라인 해커톤 진출(100명 이내)
-  ### LG AIMERS 오프라인 해커톤 11위
-  ### 미래기술 특허 아이디어 경진대회 동상 
+  <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=Python&logoColor=white"/상
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
   
