@@ -5,16 +5,14 @@
 # :mortar_board: MY PROFILE   
 
 ### 이름 : 김창현  
-### 나이 : 25
+### 나이 : 26
 ### 학교 : 한림대학교     
 ### 학과 : 컨텐츠it 학과       
-### 군대 : 28사단 포병연대 작전병 병장 만기전역 
+### 군대 : 28사단 병장 만기전역 
 ### 연락처 : 010-9270-6579   
 ### E-mail : kch633@naver.com   
 ### instagram : changg0322
 ### 취미 : 해외축구 보기
-### 좋아하는 팀 : <a href = "https://kr.mancity.com/">맨체스터 시티</a>  
-
 
 
 # :stars: Introduction   
